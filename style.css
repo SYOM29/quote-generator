@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 html {
   box-sizing: border-box;
@@ -9,7 +9,7 @@ body {
   min-height: 100vh;
   background-color: #ffffff;
   color: black;
-  font-family: Montserrat, sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-weight: 700;
   text-align: center;
   display: flex;
